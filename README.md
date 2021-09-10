@@ -3,7 +3,7 @@ Project work
 #INTRODUCTION
 
 This is a project travelling India .
-* Project Link:  https://namitkumarsingh97.github.io/cloneApple.github.io/
+* Project Link:  https://vishal06gupta78.github.io/Travelling-India.github.io/
 * GitHub Project Repository Link: https://github.com/Vishal06gupta78/Travelling-India.github.io.git
   
 #LANGUAGES USED 
@@ -27,6 +27,10 @@ This is a project travelling India .
 
 #IMAGES
 
-images are used in the webpage have been taken from the internet. 
+images are used in the webpage have been taken from the internet.
+
+
+
+ 
 
 
