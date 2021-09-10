@@ -4,7 +4,7 @@
 }
 header{
     width: 100%; height: 100vh;
-    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)),url('C:project/images/Taj-Mahal-5.jpg');
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)),url('https://allhdwallpapers.com/wp-content/uploads/2015/06/Taj-Mahal-5.jpg');
     background-repeat:no-repeat;
     background-size: cover;
 }
